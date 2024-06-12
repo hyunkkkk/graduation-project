@@ -1,0 +1,6 @@
+orig\D_BasketballPass_416x240_50.yuv recon\D_BasketballPass_416x240_50_recon.yuv 3 0.366333 
+orig\D_BasketballPass_416x240_50.yuv recon\D_BasketballPass_416x240_50_recon.yuv 12 0.368667 
+orig\D_BasketballPass_416x240_50.yuv recon\D_BasketballPass_416x240_50_recon.yuv 12 0.356083 
+orig\D_BasketballPass_416x240_50.yuv recon\D_BasketballPass_416x240_50_recon.yuv 50 0.088120 
+orig\D_BasketballPass_416x240_50.yuv recon\D_BasketballPass_416x240_50_recon.yuv 50 0.088280 
+orig\D_BasketballPass_416x240_50.yuv recon\D_BasketballPass_416x240_50_recon.yuv 50 0.088440 
