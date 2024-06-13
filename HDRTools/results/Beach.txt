@@ -1,1 +1,0 @@
-orig\1.yuv recon\1_recon.yuv 1 1.778000 
